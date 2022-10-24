@@ -2,7 +2,7 @@
 
 ![image-20220620185455655](https://tva1.sinaimg.cn/large/e6c9d24ely1h3ewpddnqnj21ma0j8dlt.jpg)
 
-This project provides Pytorch implementation for the paper "HiURE: Hierarchical Exemplar Contrastive Learning for Unsupervised Relation Extraction." 
+This project provides Pytorch implementation for the paper [HiURE: Hierarchical Exemplar Contrastive Learning for Unsupervised Relation Extraction](https://arxiv.org/abs/2205.02225). 
 
 More details about the work are in the paper.
 
